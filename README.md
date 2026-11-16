@@ -58,6 +58,10 @@ A web-based learning platform featuring secure authentication, course discovery 
 `Flutter` `Dart` `REST API` `MongoDB`  
 Mobile insurance application built with Flutter, featuring role-based authentication and REST API integration for insurance product browsing, policy purchase and management, premium payments, and claim submission with real-time status tracking.
 
+**[iClick — Click Speed Test Game (2025)](https://github.com/KamingLo/iClick)** ↗  
+`HTML` `CSS` `JavaScript`  
+My first web development project, created for a Backend Development course. A web-based click speed game featuring selectable 5-, 10-, and 15-second modes, real-time click-speed tracking, random bonus clicks, player rankings, and interactive sound and ripple effects.
+
 
 ### Connect
 
