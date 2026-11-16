@@ -2,7 +2,7 @@
 
 **Informatics Engineering · Web & Mobile Development, Data & AI**
 
-Building responsive web and mobile applications, designing relational databases, and exploring data science, AI, and emerging technologies.
+Building responsive web and mobile applications, designing databases, and exploring data science, AI, and emerging technologies.
 
 ### About
 
@@ -42,21 +42,22 @@ I'm an Informatics Engineering developer. I focus on building responsive web and
 
 ### Projects
 
-**Employee Attrition Prediction Model (2026)**  
-`MATLAB` `Data Mining` `Gradient Boosting`  
-Predictive modeling project built to estimate employee job satisfaction and attrition risk using Gradient Boosting Regression and smoothed bootstrap oversampling, evaluated using MAE, RMSE, R-Squared, and division-level feature importance analysis.
+**[StayRent — Property Rental Web Application (2026)](https://github.com/LessThanNone/StayRent)** ↗
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT`
+Full-stack property rental platform built with the MERN stack, featuring role-based authentication for tenants, property owners, and administrators; property search and filtering, listing and booking management, wishlists, reviews, image uploads, and direct WhatsApp contact with owners.
 
-**ALTAR — Attendance & Schedule Management App (2026)**  
-`React` `Next.js` `TypeScript` `Tailwind CSS`  
-Front-end web application with API integration and state management, featuring QR-based session check-in/check-out, online attendance, schedule tracking, attendance history, and substitute session monitoring.
+**[ALTAR — Attendance & Schedule Management App For Teaching Assistant (2026)](https://github.com/KamingLo/altar-frontend)** ↗  
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Zustand`  
+Role-based frontend web application for teaching assistants, featuring QR-based class check-in/check-out, online attendance, teaching-schedule tracking, attendance history, and substitute-class requests with real-time status monitoring through API integration and state management.
 
-**Trainity — Digital Learning Platform (2025)**  
-`Next.js` `Front-End Development`  
-Web-based learning platform interface featuring user authentication, course catalog, class purchasing, learning progress tracking, certificates, and an admin panel for managing learning materials and user reviews.
+**[Trainity — Digital Learning Platform (2025)](https://github.com/KamingLo/TrainityNext)** ↗  
+`Next.js` `TypeScript` `React` `MongoDB` `Front-End Development`  
+A web-based learning platform featuring secure authentication, course discovery and purchasing, video-based learning with progress tracking, certificate generation, user reviews, and an admin dashboard for managing courses, transactions, and feedback.
 
-**Learra — Mobile Insurance Application (2025)**  
-`Flutter` `Dart` `REST API`  
-Mobile insurance application interface built with Flutter, featuring authentication and API integration for policy purchase and management, premium payments, as well as insurance claim submission and status tracking.
+**[Learra — Mobile Insurance Application (2025)](https://github.com/KamingLo/Learra)** ↗  
+`Flutter` `Dart` `REST API` `MongoDB`  
+Mobile insurance application built with Flutter, featuring role-based authentication and REST API integration for insurance product browsing, policy purchase and management, premium payments, and claim submission with real-time status tracking.
+
 
 ### Connect
 
