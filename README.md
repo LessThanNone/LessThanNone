@@ -42,8 +42,8 @@ I'm an Informatics Engineering developer. I focus on building responsive web and
 
 ### Projects
 
-**[StayRent — Property Rental Web Application (2026)](https://github.com/LessThanNone/StayRent)** ↗
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT`
+**[StayRent — Property Rental Web Application (2026)](https://github.com/LessThanNone/StayRent)** ↗\
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT`\
 Full-stack property rental platform built with the MERN stack, featuring role-based authentication for tenants, property owners, and administrators; property search and filtering, listing and booking management, wishlists, reviews, image uploads, and direct WhatsApp contact with owners.
 
 **[ALTAR — Attendance & Schedule Management App For Teaching Assistant (2026)](https://github.com/KamingLo/altar-frontend)** ↗  
