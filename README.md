@@ -54,8 +54,8 @@ Role-based frontend web application for teaching assistants, featuring QR-based 
 `Next.js` `TypeScript` `React` `MongoDB` `Front-End Development`  
 A web-based learning platform featuring secure authentication, course discovery and purchasing, video-based learning with progress tracking, certificate generation, user reviews, and an admin dashboard for managing courses, transactions, and feedback.
 
-**[TechType — Real-Time Multiplayer Typing Race Game (2026)](https://github.com/KamingLo/TechType)** ↗  
-`Python` `asyncio` `TCP Sockets` `AIOHTTP` `WebSocket`
+**[TechType — Real-Time Multiplayer Typing Race Game (2025)](https://github.com/KamingLo/TechType)** ↗\
+`Python` `asyncio` `TCP Sockets` `AIOHTTP` `WebSocket`\
 Real-time multiplayer typing race game built with Python asyncio and raw TCP sockets, utilizing an AIOHTTP WebSocket bridge to connect browser clients via a line-based JSON protocol. Features automated matchmaking queues, synchronized countdowns, live WPM and progress tracking, opponent disconnect detection, and persistent leaderboard storage powered by SQLite and async SQLAlchemy.
 
 **[Learra — Mobile Insurance Application (2025)](https://github.com/KamingLo/Learra)** ↗  
